@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    By comparing to versions of a file, you’re able to see the additions and deletions between the two
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    By being able to view older versions of the file and make adjustments without affecting the entire file. Also by understanding any change that is done by you over anyone else, which makes pickup up a project in progress easier.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros to making manual commits allow you to judge when a logical change has been made, a con would making the judgement call to make a commit depending on the change. This helps keep file sizes down and has you commit when you need to.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Being able to save multiple files in commit helps when you make a change to multiple files in one commit versus having to save after each change to individual files 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    By using git log, this pulls a snapshot of changes that have been to a file or files and using the command git diff, you will be able to see the changes made from two commits of your choosing for comparison.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    By being able to view an older version of a file to see when bugs are introduced or when serious changes have been made that you would like to change.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would like to use git to work on projects that have already been started and have bugs that would need to be fixed!
